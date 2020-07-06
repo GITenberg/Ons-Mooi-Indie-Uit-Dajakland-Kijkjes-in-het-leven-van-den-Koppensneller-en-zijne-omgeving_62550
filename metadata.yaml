@@ -1,11 +1,16 @@
 _repo: Ons-Mooi-Indie-Uit-Dajakland-Kijkjes-in-het-leven-van-den-Koppensneller-en-zijne-omgeving_62550
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jongejans, J.
     gutenberg_agent_id: '51999'
     url: http://www.gutenberg.org/2009/agents/51999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62550#Ons-Mooi-Indie-Uit-Dajakland-Kijkjes-in-het-leven-van-den-Koppensneller-en-zijne-omgeving
 gutenberg_issued: '2020-07-03'
 gutenberg_type: Text
 identifiers:
